@@ -389,7 +389,7 @@ a:focus {
 }
 
 /*--
-	features-work Start 
+	features-work Start
 --*/
 #features-work {
   padding-top: 50px;
@@ -968,7 +968,7 @@ ul.dropdown-menu li {
 }
 
 .cta {
-  background: url("../images/bg/bg-2.jpg") no-repeat;
+  background: url("../images/bg/bg-2.png") no-repeat;
   background-size: cover;
   position: relative;
 }
